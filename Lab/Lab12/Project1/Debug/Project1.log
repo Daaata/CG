@@ -1,0 +1,6 @@
+﻿  lab8.cpp
+D:\CG\Lab\Lab12\Project1\Project1\lab8.cpp(28,53): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\CG\Lab\Lab12\Project1\Project1\lab8.cpp(187,28): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\CG\Lab\Lab12\Project1\Project1\lab8.cpp(188,28): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\CG\Lab\Lab12\Project1\Project1\lab8.cpp(189,28): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  Project1.vcxproj -> D:\CG\Lab\Lab12\Project1\Debug\Project1.exe
